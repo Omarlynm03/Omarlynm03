@@ -43,7 +43,7 @@ Plataforma full-stack de delivery con funcionalidades completas: registro de usu
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white)
 ![Handlebars](https://img.shields.io/badge/Handlebars-000000?style=flat-square&logo=handlebarsdotjs&logoColor=white)
 
-#### Omydenuncias (Plataforma de Denuncias Urbanas)
+#### Omydenuncias (Plataforma de Denuncias)
 Plataforma web para reportar problemas urbanos (baches, basura) con geolocalización, evidencias multimedia y seguimiento público. Busca optimizar la gestión municipal y fomentar la transparencia.
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
