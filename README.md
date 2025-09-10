@@ -17,17 +17,18 @@
 
 ### Enfoque
 
-Creo soluciones digitales funcionales e innovadoras, con especial atención a la accesibilidad y experiencia de usuario.
+Mi labor se centra en el desarrollo de soluciones digitales que son a la vez funcionales e innovadoras. Priorizo especialmente que estas sean accesibles para todos los usuarios y ofrezcan una experiencia intuitiva y satisfactoria, garantizando que la tecnología sea útil y fácil de usar.
 
 ---
 
 ### Sobre mí
 
-Soy un apasionado del desarrollo de software con sólida base en HTML, CSS, JavaScript y MySQL, enfocado en el desarrollo Backend. Busco oportunidades para aplicar mis conocimientos y contribuir a soluciones innovadoras.
+Soy un apasionado del desarrollo de software con sólida base en HTML, CSS, JavaScript y MySQL, enfocado en el desarrollo Backend. Siempre tratando de marcar la diferencia.
 
 - Estudiante de término de Desarrollo de Software en ITLA
 - Familiarizado con Git y Jira para gestión de proyectos
 - Apasionado por crear soluciones backend eficientes
+- Actualmente sigo aprendiendo de todo un poco
 
 ---
 
