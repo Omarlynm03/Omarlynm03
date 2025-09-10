@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Omarlyn Martinez - Perfil GitHub</title>
+    <style>
+        :root {
+            --primary-color: #2da44e;
+            --secondary-color: #f6f8fa;
+            --accent-color: #0969da;
+            --text-color: #24292f;
+            --light-text: #57606a;
+            --border-color: #d0d7de;
+            --bg-color: #ffffff;
+        }
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        }
+        
+        body {
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            line-height: 1.5;
+            padding: 20px;
+            max-width: 900px;
+            margin: 0 auto;
+        }
+        
+        header {
+            margin-bottom: 30px;
+            padding-bottom: 20px;
+            border-bottom: 1px solid var(--border-color);
+        }
+        
+        h1 {
+            font-size: 2.2rem;
+            margin-bottom: 10px;
+            color: var(--text-color);
+        }
+        
+        h2 {
+            font-size: 1.5rem;
+            margin: 25px 0 15px 0;
+            padding-bottom: 10px;
+            border-bottom: 1px solid var(--border-color);
+            color: var(--text-color);
+        }
+        
+        h3 {
+            font-size: 1.2rem;
+            margin: 20px 0 10px 0;
+            color: var(--accent-color);
+        }
+        
+        p {
+            margin-bottom: 15px;
+        }
+        
+        ul {
+            list-style-type: none;
+            margin-bottom: 20px;
+        }
+        
+        li {
+            margin-bottom: 8px;
+            padding-left: 20px;
+            position: relative;
+        }
+        
+        li:before {
+            content: "•";
+            color: var(--primary-color);
+            font-weight: bold;
+            position: absolute;
+            left: 0;
+        }
+        
+        .badge {
+            display: inline-block;
+            background-color: var(--secondary-color);
+            color: var(--accent-color);
+            padding: 4px 8px;
+            border-radius: 20px;
+            font-size: 0.85rem;
+            margin-right: 8px;
+            margin-bottom: 8px;
+        }
+        
+        .section {
+            margin-bottom: 30px;
+            padding: 20px;
+            border-radius: 8px;
+            background-color: var(--bg-color);
+            border: 1px solid var(--border-color);
+        }
+        
+        .repo {
+            margin-bottom: 20px;
+            padding: 15px;
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+        }
+        
+        .repo-title {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-bottom: 10px;
+        }
+        
+        .repo-status {
+            font-size: 0.8rem;
+            color: var(--light-text);
+        }
+        
+        .divider {
+            height: 1px;
+            background-color: var(--border-color);
+            margin: 25px 0;
+        }
+        
+        .emoji {
+            margin-right: 5px;
+        }
+        
+        @media (max-width: 768px) {
+            body {
+                padding: 15px;
+            }
+            
+            h1 {
+                font-size: 1.8rem;
+            }
+            
+            h2 {
+                font-size: 1.3rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>¡Hola! 👋 Soy Omarlyn Martinez</h1>
+        <p>Desarrollador Web Full Stack | Estudiante en ITLA</p>
+    </header>
+    
+    <div class="section">
+        <h2>Tecnologías que uso</h2>
+        <p>
+            <span class="badge">JavaScript</span>
+            <span class="badge">Node.js</span>
+            <span class="badge">Express.js</span>
+            <span class="badge">MySQL</span>
+            <span class="badge">HTML5</span>
+            <span class="badge">CSS3</span>
+            <span class="badge">Git</span>
+            <span class="badge">Python</span>
+            <span class="badge">Bootstrap</span>
+            <span class="badge">.NET 8</span>
+        </p>
+        
+        <h2>Enfoque</h2>
+        <p>Creo soluciones digitales funcionales e innovadoras, con especial atención a la accesibilidad y experiencia de usuario.</p>
+    </div>
+    
+    <div class="divider"></div>
+    
+    <div class="section">
+        <h2>Sobre mí</h2>
+        <p>Soy un apasionado del desarrollo de software con sólida base en HTML, CSS, JavaScript y MySQL, enfocado en el desarrollo Backend. Busco oportunidades para aplicar mis conocimientos y contribuir a soluciones innovadoras.</p>
+        
+        <ul>
+            <li>Estudiante de término de Desarrollo de Software en ITLA</li>
+            <li>Familiarizado con Git y Jira para gestión de proyectos</li>
+            <li>Apasionado por crear soluciones backend eficientes</li>
+        </ul>
+    </div>
+    
+    <div class="divider"></div>
+    
+    <div class="section">
+        <h2>Proyectos Destacados</h2>
+        
+        <div class="repo">
+            <div class="repo-title">
+                <h3>AppCenar (Clon de PedidosYa)</h3>
+                <span class="repo-status">Público</span>
+            </div>
+            <p>Plataforma full-stack de delivery con funcionalidades completas: registro de usuarios, menú interactivo, carrito de compras, historial de pedidos y panel administrativo.</p>
+            <p>
+                <span class="badge">Node.js</span>
+                <span class="badge">Express</span>
+                <span class="badge">MySQL</span>
+                <span class="badge">Sequelize</span>
+                <span class="badge">Handlebars</span>
+            </p>
+        </div>
+        
+        <div class="repo">
+            <div class="repo-title">
+                <h3>BookApp (Gestor de Libros)</h3>
+                <span class="repo-status">Público</span>
+            </div>
+            <p>Sistema CRUD completo con filtros de búsqueda y categorización de libros.</p>
+            <p>
+                <span class="badge">JavaScript</span>
+                <span class="badge">MySQL</span>
+                <span class="badge">HTML</span>
+                <span class="badge">CSS</span>
+            </p>
+        </div>
+        
+        <div class="repo">
+            <div class="repo-title">
+                <h3>Gestor de Cines</h3>
+                <span class="repo-status">Público</span>
+            </div>
+            <p>Plataforma de reservas con gestión de salas, películas y usuarios.</p>
+            <p>
+                <span class="badge">Express</span>
+                <span class="badge">Handlebars</span>
+                <span class="badge">MySQL</span>
+            </p>
+        </div>
+    </div>
+</body>
+</html>
