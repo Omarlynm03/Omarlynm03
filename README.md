@@ -43,6 +43,15 @@ Plataforma full-stack de delivery con funcionalidades completas: registro de usu
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white)
 ![Handlebars](https://img.shields.io/badge/Handlebars-000000?style=flat-square&logo=handlebarsdotjs&logoColor=white)
 
+#### Omydenuncias (Plataforma de Denuncias Urbanas)
+Plataforma web para reportar problemas urbanos (baches, basura) con geolocalización, evidencias multimedia y seguimiento público. Busca optimizar la gestión municipal y fomentar la transparencia.
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Leaflet.js](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+
 #### BookApp (Gestor de Libros)
 Sistema CRUD completo con filtros de búsqueda y categorización de libros.
 
